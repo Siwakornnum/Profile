@@ -17,4 +17,4 @@ I'm a web developer. I started developing different languages from internships a
 
 ## 📈 Github Stat
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/Siwakornnum)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwakornnum&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/Siwakornnum)
