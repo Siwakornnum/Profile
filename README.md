@@ -16,6 +16,7 @@ I'm a web developer. I started developing different languages from internships a
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 Github Stat
 
